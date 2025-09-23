@@ -4,7 +4,7 @@ import { Box, Flex, Text } from "@radix-ui/themes";
 export const StyledFooterBox = styled(Box)`
   margin-top: 2rem;
   padding: 1rem 0;
-  border-top: 1px solid #333;
+  border-top: 1px solid var(--gray-6);
 `;
 
 export const StyledFlex = styled(Flex)`
