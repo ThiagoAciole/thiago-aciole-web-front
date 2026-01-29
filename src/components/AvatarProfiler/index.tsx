@@ -5,7 +5,7 @@ export const AvatarProfiler = () => {
     <AvatarWrapper>
       <StyledAvatar
         size="9"
-        src="/profiler.png"
+        src="https://avatars.githubusercontent.com/u/64097786?v=4"
         alt="Thiago Aciole"
         radius="full"
         fallback="T"
